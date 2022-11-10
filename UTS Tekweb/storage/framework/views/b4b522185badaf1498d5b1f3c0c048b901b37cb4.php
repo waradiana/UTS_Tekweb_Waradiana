@@ -1,0 +1,1 @@
+<?php /**PATH C:\Laravel\Kecak.Bali-app\resources\views/layouts/home-layout.blade.php ENDPATH**/ ?>
